@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wagon706
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning HTML & CSS
-- 💞️ I’m looking to collaborate on freeCodeCamp
+- 💞️ I’m looking to collaborate on freeCodeCamp, Codecademy, etc!
 - 📫 How to reach me: Discord, guido.#3960
 
 <!---
